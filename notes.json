@@ -1,1 +1,14 @@
-[{"title":"Clean Code","body":"This is a clean code book"},{"title":"Node.js","body":"Nodejs course by andrew mead"},{"title":"mustafa","body":"asdasdkjkhasdfgsdfjk"}]
+[
+  {
+    "title": "Clean Code",
+    "body": "This is a clean code book"
+  },
+  {
+    "title": "Node.js",
+    "body": "Nodejs course by andrew mead"
+  },
+  {
+    "title": "Angular2+",
+    "body": "I'm an Angular developer with 2+ years of experience"
+  }
+]
